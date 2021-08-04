@@ -1,0 +1,13 @@
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.exe
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.deps.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.runtimeconfig.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.runtimeconfig.dev.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.dll
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\bin\Debug\netcoreapp3.1\twoPersons.pdb
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.csproj.AssemblyReference.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.AssemblyInfoInputs.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.AssemblyInfo.cs
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.csproj.CoreCompileInputs.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.dll
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.pdb
+C:\Users\kotha\Desktop\fellowship\practiceon4\twoPersons\obj\Debug\netcoreapp3.1\twoPersons.genruntimeconfig.cache
