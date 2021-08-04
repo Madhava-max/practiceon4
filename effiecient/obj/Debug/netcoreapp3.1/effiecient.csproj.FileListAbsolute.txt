@@ -1,0 +1,13 @@
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.exe
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.deps.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.runtimeconfig.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.runtimeconfig.dev.json
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.dll
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\bin\Debug\netcoreapp3.1\effiecient.pdb
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.csproj.AssemblyReference.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.AssemblyInfoInputs.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.AssemblyInfo.cs
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.csproj.CoreCompileInputs.cache
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.dll
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.pdb
+C:\Users\kotha\Desktop\fellowship\practiceon4\effiecient\obj\Debug\netcoreapp3.1\effiecient.genruntimeconfig.cache
